@@ -1,6 +1,6 @@
 # Домашнее задание №1 к лекции «Анимации и CSS»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/golnf8ufsli9hm09?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ahj-hw-9-1-collapse)
+[![Build status](https://ci.appveyor.com/api/projects/status/4bp468qik8stmwve?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ahj-hw-9-1-collapse)
 
 [Ссылка на Github Pages](https://yuriyvyatkin.github.io/ahj-hw-9.1-collapse/)
 
